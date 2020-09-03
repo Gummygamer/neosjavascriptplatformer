@@ -46,3 +46,9 @@ exports.moveLeft = function() {
   return getCoord();
 }
 
+exports.moveJump = function() {
+  dy = dy + 0.001;
+
+  return getCoord();
+}
+
