@@ -14,6 +14,7 @@ http.createServer(function (req, res) {
 		 break;
 	  case "/jump":
              res.end(pos.jump());
+		  break;
 	  default:
 	     res.end(pos.fetchCoord());
 		 break;
