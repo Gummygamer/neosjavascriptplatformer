@@ -12,7 +12,7 @@ http.createServer(function (req, res) {
 	  case "/moveleft":
              res.end(pos.moveLeft());
 		 break;
-	  case "jump":
+	  case "/jump":
              res.end(pos.jump());
 	  default:
 	     res.end(pos.fetchCoord());
