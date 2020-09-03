@@ -17,4 +17,4 @@ http.createServer(function (req, res) {
 		 break;
   }
   
-}).listen(8080);
+}).listen(80);
