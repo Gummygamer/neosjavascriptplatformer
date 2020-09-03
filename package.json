@@ -1,0 +1,19 @@
+{
+  "name": "neosplatformer",
+  "version": "0.1.0",
+  "description": "node.js server for platformer mechanics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gummygamer/neosjavascriptplatformer.git"
+  },
+  "author": "Ga1ahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gummygamer/neosjavascriptplatformer/issues"
+  },
+  "homepage": "https://github.com/Gummygamer/neosjavascriptplatformer#readme"
+}
