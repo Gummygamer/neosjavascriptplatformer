@@ -47,7 +47,7 @@ exports.moveLeft = function() {
 }
 
 exports.jump = function() {
-  dy = dy + 0.00001;
+  dy = dy + 0.0002;
 
   return getCoord();
 }
