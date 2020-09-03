@@ -49,7 +49,7 @@ exports.moveLeft = function() {
 exports.jump = function() {
   if(y==0)
   {
-      dy = dy + 0.001;
+      dy = dy + 0.01;
   }
 
   return getCoord();
